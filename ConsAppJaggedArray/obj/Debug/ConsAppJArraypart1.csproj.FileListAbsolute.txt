@@ -1,0 +1,7 @@
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppJaggedArray\ConsAppJaggedArray\bin\Debug\ConsAppJaggedArray.exe.config
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppJaggedArray\ConsAppJaggedArray\bin\Debug\ConsAppJaggedArray.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppJaggedArray\ConsAppJaggedArray\bin\Debug\ConsAppJaggedArray.pdb
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppJaggedArray\ConsAppJaggedArray\obj\Debug\ConsAppJArraypart1.csproj.AssemblyReference.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppJaggedArray\ConsAppJaggedArray\obj\Debug\ConsAppJArraypart1.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppJaggedArray\ConsAppJaggedArray\obj\Debug\ConsAppJaggedArray.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppJaggedArray\ConsAppJaggedArray\obj\Debug\ConsAppJaggedArray.pdb
